@@ -1,5 +1,5 @@
 # 💫 Hola, soy Rubén VZ 👋
-👋 Hola, soy un estudiante de Ingenierías<br><br>Soy un apasionado por el desarrollo de software y la tecnología. Mi objetivo es convertirme en un profesional integral que aporte soluciones eficientes y creativas al mundo tecnológico. Me enfoco en adquirir habilidades en programación, análisis de sistemas y desarrollo de aplicaciones.
+👋 Hola, soy un estudiante de Ingeniería<br><br>Soy un apasionado por el desarrollo de software y la tecnología. Mi objetivo es convertirme en un profesional integral que aporte soluciones eficientes y creativas al mundo tecnológico. Me enfoco en adquirir habilidades en programación, análisis de sistemas y desarrollo de aplicaciones.
 
 
 ## 🌐 Redes Sociales:
